@@ -1,0 +1,4 @@
+SERIAL_DRIVER = vendor
+NKRO_ENABLE = yes
+STENO_ENABLE = yes
+STENO_PROTOCOL = geminipr
